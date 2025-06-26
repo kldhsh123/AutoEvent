@@ -1,7 +1,7 @@
 # 问题解决 :trollface: - *如何解决我的问题？*
 ## 1) 您没有使用此命令的权限：
 ![image](https://github.com/user-attachments/assets/b96bbf64-e981-4f9a-8200-eb1aab1b8014)
-- 在此处阅读如何为您的角色设置权限：[(点击我)](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Docs/Installation_zh.md)
+- 在此处阅读如何为您的角色设置权限：[(点击我)](https://github.com/kldhsh123/AutoEvent/blob/main/Docs/Installation_zh.md)
 ---
 ## 2) 我只有一个小游戏。我应该怎么办？
 ![image](https://github.com/user-attachments/assets/c40ac4d8-7753-4627-bf39-d514d53c3b98)

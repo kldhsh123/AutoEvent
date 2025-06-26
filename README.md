@@ -8,7 +8,7 @@
 
 ### Allows you to run auto Mini-Games in the game.
 
-![Logo](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Photos/MGMER.png)
+![Logo](https://github.com/kldhsh123/AutoEvent/blob/main/Photos/MGMER.png)
 
 #### About This Fork
 The AutoEvent repository has been archived. I will provide minimal support for AutoEvent in this repository (since I am not familiar with MER, I can only ensure the plugin works properly in future updates).
@@ -18,13 +18,13 @@ The AutoEvent repository has been archived. I will provide minimal support for A
 - Thanks to all AutoEvent contributors: [![Contributors](https://contrib.rocks/image?repo=kldhsh123/AutoEvent)](https://github.com/kldhsh123/AutoEvent/graphs/contributors)
 
 ### Guides:
-[![](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Photos/Message.png)](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Docs/MiniGames.md)
-[![](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Photos/Message1.png)](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Docs/Installation.md)
-[![](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Photos/Message2.png)](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Docs/Commands.md)
-[![](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Photos/Message3.png)](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Docs/Language.md)
-[![](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Photos/Message4.png)](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Docs/Problem.md)
-[![](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Photos/Message5.png)](https://docs.google.com/document/d/1acRD2O9u4-THUEaXenFLF97Lkqt4uQ0mOEAThVNROJs/)
-[![](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Photos/Message6.png)](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Docs/Configuration.md)
+[![](https://github.com/kldhsh123/AutoEvent/blob/main/Photos/Message.png)](https://github.com/kldhsh123/AutoEvent/blob/main/Docs/MiniGames.md)
+[![](https://github.com/kldhsh123/AutoEvent/blob/main/Photos/Message1.png)](https://github.com/kldhsh123/AutoEvent/blob/main/Docs/Installation.md)
+[![](https://github.com/kldhsh123/AutoEvent/blob/main/Photos/Message2.png)](https://github.com/kldhsh123/AutoEvent/blob/main/Docs/Commands.md)
+[![](https://github.com/kldhsh123/AutoEvent/blob/main/Photos/Message3.png)](https://github.com/kldhsh123/AutoEvent/blob/main/Docs/Language.md)
+[![](https://github.com/kldhsh123/AutoEvent/blob/main/Photos/Message4.png)](https://github.com/kldhsh123/AutoEvent/blob/main/Docs/Problem.md)
+[![](https://github.com/kldhsh123/AutoEvent/blob/main/Photos/Message5.png)](https://docs.google.com/document/d/1acRD2O9u4-THUEaXenFLF97Lkqt4uQ0mOEAThVNROJs/)
+[![](https://github.com/kldhsh123/AutoEvent/blob/main/Photos/Message6.png)](https://github.com/kldhsh123/AutoEvent/blob/main/Docs/Configuration.md)
 
 ### Credits
 - Thanks to **xleb.ik** for creating new maps, Halloween and Winter season maps.
@@ -43,7 +43,7 @@ The AutoEvent repository has been archived. I will provide minimal support for A
 
 ### 允许您在游戏中运行自动小游戏。
 
-![Logo](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Photos/MGMER.png)
+![Logo](https://github.com/kldhsh123/AutoEvent/blob/main/Photos/MGMER.png)
 
 #### 关于此分支
 AutoEvent 存储库已存档。我将在此存储库中提供对 AutoEvent 的最低限度的支持（因为我并不熟悉MER，因此我只能确保插件在未来的更新中正常运行）。
@@ -53,13 +53,13 @@ AutoEvent 存储库已存档。我将在此存储库中提供对 AutoEvent 的�
 - 感谢 AutoEvent 的全部贡献者：[![Contributors](https://contrib.rocks/image?repo=kldhsh123/AutoEvent)](https://github.com/kldhsh123/AutoEvent/graphs/contributors)
 
 ### 指南：
-[![](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Photos/Message.png)](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Docs/MiniGames_zh.md)
-[![](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Photos/Message1.png)](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Docs/Installation_zh.md)
-[![](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Photos/Message2.png)](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Docs/Commands_zh.md)
-[![](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Photos/Message3.png)](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Docs/Language_zh.md)
-[![](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Photos/Message4.png)](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Docs/Problem_zh.md)
-[![](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Photos/Message5.png)](https://docs.google.com/document/d/1acRD2O9u4-THUEaXenFLF97Lkqt4uQ0mOEAThVNROJs/)
-[![](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Photos/Message6.png)](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Docs/Configuration_zh.md)
+- [📋 小游戏介绍](https://github.com/kldhsh123/AutoEvent/blob/main/Docs/MiniGames_zh.md)
+- [⚙️ 安装指南](https://github.com/kldhsh123/AutoEvent/blob/main/Docs/Installation_zh.md)
+- [💻 命令指南](https://github.com/kldhsh123/AutoEvent/blob/main/Docs/Commands_zh.md)
+- [🌐 语言设置](https://github.com/kldhsh123/AutoEvent/blob/main/Docs/Language_zh.md)
+- [❓ 问题解决](https://github.com/kldhsh123/AutoEvent/blob/main/Docs/Problem_zh.md)
+- [📖 开发文档](https://docs.google.com/document/d/1acRD2O9u4-THUEaXenFLF97Lkqt4uQ0mOEAThVNROJs/)
+- [🔧 配置指南](https://github.com/kldhsh123/AutoEvent/blob/main/Docs/Configuration_zh.md)
 
 ### 致谢
 - 感谢 **xleb.ik** 创建新地图、万圣节和冬季主题地图。

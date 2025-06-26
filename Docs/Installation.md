@@ -6,7 +6,7 @@
 
 - [``AutoEvent.dll``](https://github.com/kldhsh123/AutoEvent/releases/latest) move to => ``EXILED/Plugins``
 
-- [``MapEditorReborn.dll``](https://github.com/kldhsh123/AutoEvent/tree/beta14.1-mer/releases/download/v.9.11.1/MapEditorReborn.dll) move to => ``EXILED/Plugins``
+- [``MapEditorReborn.dll``](https://github.com/kldhsh123/AutoEvent/tree/main/releases/download/v.9.11.1/MapEditorReborn.dll) move to => ``EXILED/Plugins``
 
 - [``Music.tar.gz``](https://github.com/kldhsh123/AutoEvent/releases/latest) unzip files to => ``EXILED/Configs/AutoEvent/Music``
 

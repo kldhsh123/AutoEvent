@@ -6,7 +6,7 @@
 
 - [``AutoEvent.dll``](https://github.com/kldhsh123/AutoEvent/releases/latest) 移动到 => ``EXILED/Plugins``
 
-- [``MapEditorReborn.dll``](https://github.com/kldhsh123/AutoEvent/tree/beta14.1-mer/releases/download/v.9.11.1/MapEditorReborn.dll) 移动到 => ``EXILED/Plugins``
+- [``MapEditorReborn.dll``](https://github.com/kldhsh123/AutoEvent/tree/main/releases/download/v.9.11.1/MapEditorReborn.dll) 移动到 => ``EXILED/Plugins``
 
 - [``Music.tar.gz``](https://github.com/kldhsh123/AutoEvent/releases/latest) 解压文件到 => ``EXILED/Configs/AutoEvent/Music``
 

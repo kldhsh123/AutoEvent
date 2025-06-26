@@ -1,7 +1,7 @@
 # Problems :trollface: - *How can I fix my problem?*
 ## 1) You do not have permission to use this command:
 ![image](https://github.com/user-attachments/assets/b96bbf64-e981-4f9a-8200-eb1aab1b8014)
-- Read here how to set permissions for your role: [(Press me)](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Docs/Installation.md)
+- Read here how to set permissions for your role: [(Press me)](https://github.com/kldhsh123/AutoEvent/blob/main/Docs/Installation.md)
 ---
 ## 2) I only have one mini-game. What should I do?
 ![image](https://github.com/user-attachments/assets/c40ac4d8-7753-4627-bf39-d514d53c3b98)
