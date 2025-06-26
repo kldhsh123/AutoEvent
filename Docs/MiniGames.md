@@ -11,4 +11,4 @@
 ### Halloween Mini-Games
 ##### Here are all the maps and mini-games that were changed in the Halloween update.
 ##### (Click on the blood logo)
-[![](https://github.com/RisottoMan/AutoEvent/blob/beta14.1-mer/Photos/MiniGames%20Halloween(mini).png)](https://github.com/KoT0XleB/AutoEvent/blob/beta14.1-mer/Docs/NewYearMiniGames.md)
+[![](https://github.com/kldhsh123/AutoEvent/blob/beta14.1-mer/Photos/MiniGames%20Halloween(mini).png)](https://github.com/KoT0XleB/AutoEvent/blob/beta14.1-mer/Docs/NewYearMiniGames.md)

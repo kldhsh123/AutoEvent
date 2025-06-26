@@ -4,13 +4,13 @@
 ## 1. Download and Setup :moyai:
 ### *You need to download the latest release:*
 
-- [``AutoEvent.dll``](https://github.com/RisottoMan/AutoEvent/releases/latest) move to => ``EXILED/Plugins``
+- [``AutoEvent.dll``](https://github.com/kldhsh123/AutoEvent/releases/latest) move to => ``EXILED/Plugins``
 
-- [``MapEditorReborn.dll``](https://github.com/RisottoMan/AutoEvent/tree/beta14.1-mer/releases/download/v.9.11.1/MapEditorReborn.dll) move to => ``EXILED/Plugins``
+- [``MapEditorReborn.dll``](https://github.com/kldhsh123/AutoEvent/tree/beta14.1-mer/releases/download/v.9.11.1/MapEditorReborn.dll) move to => ``EXILED/Plugins``
 
-- [``Music.tar.gz``](https://github.com/RisottoMan/AutoEvent/releases/latest) unzip files to => ``EXILED/Configs/AutoEvent/Music``
+- [``Music.tar.gz``](https://github.com/kldhsh123/AutoEvent/releases/latest) unzip files to => ``EXILED/Configs/AutoEvent/Music``
 
-- [``Schematics.tar.gz``](https://github.com/RisottoMan/AutoEvent/releases/latest) unzip files to => ``EXILED/Configs/AutoEvent/Schematics``
+- [``Schematics.tar.gz``](https://github.com/kldhsh123/AutoEvent/releases/latest) unzip files to => ``EXILED/Configs/AutoEvent/Schematics``
 
 - Ensure that the Config has the following directories, and that they can be accessed to the server.
 ```yml
